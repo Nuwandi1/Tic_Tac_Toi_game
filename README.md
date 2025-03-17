@@ -1,25 +1,14 @@
-🎲 Tic-Tac-Toe Game
+# Tic Tac Toe Game 🎮
 
-Welcome to the Tic-Tac-Toe game! ✨ This is a simple yet fun Java-based game with a visually appealing UI. Enjoy the classic battle of Xs and Os! ❌⭕
+Welcome to the Tic Tac Toe game! ✨ This is a simple and fun implementation of the classic Tic Tac Toe using Java and AWT.
 
-🚀 Features
+## 🚀 Features
+- 🎨 Custom Colors & Design - Beautifully styled board with customizable colors.
+- 🏆 Score Tracking - Displays the current score of X and O.
+- 🔥 Smooth Gameplay - Click-based interaction for an intuitive experience.
+- 📏 Responsive Layout - Auto-adjusting board size for better visuals.
 
-🎨 Beautiful UI with customizable colors
+## 🎥 Demo Video  
+https://drive.google.com/file/d/1DqfiBcaalYz8fzSOQyqnb6-luSEGtuPX/view?usp=sharing 
 
-🏆 Score tracking to keep track of wins
 
-📏 Resizable board with adjustable dimensions
-
-🖱️ Mouse interactions for easy gameplay
-
-📜 How to Play
-
-Run the Java application 🖥️
-
-The first player starts with X, and the second plays with O
-
-Click on an empty cell to place your mark ❌⭕
-
-The first to align three marks in a row, column, or diagonal wins! 🎉
-
-Restart the game anytime to play again 🔄
